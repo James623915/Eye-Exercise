@@ -12,4 +12,4 @@ Clone or download the PacMen-factory-Exercise repository and open on the index.h
 ## Roadmap of future improvement
 I am planning to improve my eye project by making those eyes blinking while the mouse stops moving.
 ## License information
-See <a href="https://github.com/James623915/PacMen-Factory-Exercise/blob/main/LICENSE">license file.</a> 
+See <a href="https://github.com/James623915/Eye-Exercise/blob/main/LICENSE">license file.</a> 
